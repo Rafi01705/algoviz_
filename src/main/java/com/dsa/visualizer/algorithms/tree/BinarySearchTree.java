@@ -10,7 +10,7 @@ public class BinarySearchTree {
 
 
     private static final double PANE_WIDTH      = 1400;
-    private static final double INITIAL_OFFSET  = PANE_WIDTH / 2.0;   // 700 px
+    private static final double INITIAL_OFFSET  = PANE_WIDTH / 2.0;   /
     private static final double ROOT_X          = PANE_WIDTH / 2.0;   // 700 px
     private static final double ROOT_Y          = 50;
     private static final double LEVEL_HEIGHT    = 80;
